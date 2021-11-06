@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+ul li.checked {
+  background: #888;
+  color: #fff;
+  text-decoration: line-through;
+}
+ul li:hover {
+  background: #ddd;
+}
